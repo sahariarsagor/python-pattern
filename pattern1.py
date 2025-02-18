@@ -1,1 +1,5 @@
-print("Hello Sahariar Sagor")
+# according to the question 
+
+n = 5
+for i in range(1, n+1):
+    print("*" * i)
