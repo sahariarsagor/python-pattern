@@ -38,3 +38,13 @@ Our 03 No pattern is to print number following way in our console using python.
     1 2 3 4 5
 ```
 
+# Pattern 04 => Pyramid Patttern
+Our 04 no pattern is to print following type pattern in console using python. 
+
+```
+        *
+       ***
+      *****
+     *******
+    ********* 
+```
