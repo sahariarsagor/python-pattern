@@ -1,5 +1,10 @@
 # python-pattern
-how to print a patern 
+Hello I am *Sahariar Sagor* now i am discussing about pattern in python. we use loop to print various type of loop. 
+
+we try to understand loop, nested loop topic and i hope this repo help you to learn loop and pattern printing. 
+
+Hello everyone we have a facebook page called NexgenCoder hope you guys follow me on facebook. 
+[facebook](https://www.facebook.com/@NexgenCoderOfficial/)
 
 # Pattern 01 => 
 we need to print this following type pattern in our console using python. 
@@ -32,3 +37,4 @@ Our 03 No pattern is to print number following way in our console using python.
     1 2 3 4
     1 2 3 4 5
 ```
+
